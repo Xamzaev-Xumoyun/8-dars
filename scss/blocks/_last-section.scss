@@ -1,0 +1,119 @@
+.last-section{
+  margin-bottom: 200px;
+}
+
+
+
+.last-section__box{
+  background-color: #293039;
+   padding-top: 100px; 
+   padding-bottom: 100px;
+   padding-left: 85px;
+   border-radius: 10px;
+}
+
+ 
+  
+
+
+.last-section__span{
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 735px;
+  height: 1px;
+  border: 1px solid #FDD6BA;
+   
+}
+
+
+
+
+
+.last-section__span__little{
+  
+  
+  position: absolute;
+  z-index: 2;
+  width: 31px;
+  height: 31px;
+  border-radius: 50%;
+  border: 2px solid #0E8784;
+  top: -15px;
+  left: -15px;
+}
+
+
+.last-section__span__little__next{
+  position: absolute;
+  z-index: 2;
+  width: 31px;
+  height: 31px;
+  border-radius: 50%;
+  border: 2px solid #0E8784;
+  left: 350px;
+  top: -15px;
+  margin-left: 0px;
+}
+
+.last-section__span__little__our {
+  position: absolute;
+  z-index: 2;
+  width: 31px;
+  height: 31px;
+  border-radius: 50%;
+  border: 2px solid #0E8784;
+  left: 720px;
+  top: -15px;
+  margin-left: 0px;
+
+
+}
+
+
+.last-section__item{
+ 
+  display: flex;
+  list-style: none;
+  padding: 0px;
+  margin-top: 67px;
+ 
+  
+}
+
+
+.last-section__list{
+  width: 285px;
+
+}
+
+.last-section__list--active{
+  
+  margin-left:  70px;
+  margin-right: 85px;
+}
+
+
+.last-section__list__text{
+  font-family: "Fraunces" , "serif";
+  width: 180px;
+  margin-top: 38px;
+  margin-bottom: 42px;
+  font-size: 2em;
+  line-height: 36px;
+  font-weight: 900;
+  color:#FEFCF7;
+}
+
+.last-section__list__poragraf{
+  line-height: 26px;
+  font-weight: 400;
+  margin: 0px;
+  color: #FEFCF7;
+  opacity: 0.8;
+}
+
+
+
+
+
