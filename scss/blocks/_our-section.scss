@@ -37,7 +37,22 @@
 .our-section__little-box__list__link {
   display: inline-block;
   text-decoration: none;
+
+
 }
+
+
+
+.our-section__little-box__list__link:hover  .our-section__little-box__item__nomer{
+  color: #0E8784;
+}
+
+
+.our-section__little-box__list__link:hover .our-section__little-box__item__text {
+color: #293039;
+} 
+
+
 
 
 .our-section__little-box__item {
