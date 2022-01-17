@@ -45,6 +45,7 @@
 
 .our-section__little-box__list__link:hover  .our-section__little-box__item__nomer{
   color: #0E8784;
+
 }
 
 
@@ -86,6 +87,7 @@ color: #293039;
   font-weight: 900;
   line-height: 32px;
   color: #83888F;
+  transition: color 0.5s;
 
   &:hover {
     color: #0E8784;
@@ -122,6 +124,7 @@ color: #293039;
   font-weight: 900;
   line-height: 32px;
   color: #83888F;
+  transition: color 0.5s;
 
 
   &:hover {

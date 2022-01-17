@@ -687,6 +687,8 @@ header {
   font-weight: 900;
   line-height: 32px;
   color: #83888F;
+  -webkit-transition: color 0.5s;
+  transition: color 0.5s;
 }
 
 .our-section__little-box__item__nomer:hover {
@@ -718,6 +720,8 @@ header {
   font-weight: 900;
   line-height: 32px;
   color: #83888F;
+  -webkit-transition: color 0.5s;
+  transition: color 0.5s;
 }
 
 .our-section__little-box__item__text:hover {
