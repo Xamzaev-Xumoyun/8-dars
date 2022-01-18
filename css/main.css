@@ -787,19 +787,20 @@ header {
 }
 
 .our-section__label__text {
+  display: block;
   font-family: "Fraunces", "serif";
   margin: 0px;
   font-size: 24px;
   font-weight: 900;
   line-height: 32px;
   color: #333D4B;
+  margin-bottom: 24px;
 }
 
 .our-section__label__poragraf {
   font-weight: 400;
   line-height: 26px;
   color: #333D4B;
-  margin-top: 24px;
 }
 
 .our-section__last-box {
